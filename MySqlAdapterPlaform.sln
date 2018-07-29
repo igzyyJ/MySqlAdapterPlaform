@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySqlAdapterPlaform", "MySqlAdapterPlaform\MySqlAdapterPlaform.csproj", "{47E51272-0BE3-4071-A155-308E793C9528}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{9EE24B1F-BE02-4304-8E9A-3CC158BC6FC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47E51272-0BE3-4071-A155-308E793C9528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47E51272-0BE3-4071-A155-308E793C9528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47E51272-0BE3-4071-A155-308E793C9528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47E51272-0BE3-4071-A155-308E793C9528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EE24B1F-BE02-4304-8E9A-3CC158BC6FC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EE24B1F-BE02-4304-8E9A-3CC158BC6FC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EE24B1F-BE02-4304-8E9A-3CC158BC6FC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EE24B1F-BE02-4304-8E9A-3CC158BC6FC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CB811B1-4DF7-43C3-B3B9-93A229D83417}
+	EndGlobalSection
+EndGlobal
